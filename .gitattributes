@@ -1,0 +1,3 @@
+# Ignore the bib files that are created.
+* linguist-vendored
+*.java linguist-vendored=false
